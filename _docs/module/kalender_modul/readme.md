@@ -1,4 +1,4 @@
-Modul für sked mit Kalender-Anzeige
+**Modul für sked mit Kalender-Anzeige**
 ___________________________________
 
 rex_api_events.php und Events.php in project-AddOn
